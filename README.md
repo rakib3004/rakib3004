@@ -1,4 +1,4 @@
-### Assalamu-Alaikum 👋
+### Assalamu-Alaikum, I am Md. Rakib Trofder ✨
 
 <!--
 **rakib3004/rakib3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -14,9 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3004&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Connect me on:
-- [Facebook](https://www.facebook.com/rakib.iit/)
-- [Instragram](https://www.instagram.com/md.rakibtrofder/)
+
 
 
 
