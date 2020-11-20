@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- Study at [Institute of Information Technology, University of Dhaka](https://iit.du.ac.bd)
+- Study at [Institute of Information Technology, University of Dhaka](http://www.iit.du.ac.bd/)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rakib3004)](https://github.com/anuraghazra/github-readme-stats)
