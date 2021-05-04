@@ -1,10 +1,10 @@
-### Assalamu-Alaikum, I am Md. Rakib Trofder ✨
-
-<!--
-**rakib3004/rakib3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+### Assalamu-Alaikum, I am [Md. Rakib Trofder](https://www.linkedin.com/in/md-rakib-trofder-15222318b/) ✨
 
 
-- Studying at [Software Engineering, University of Dhaka](http://www.iit.du.ac.bd/)
+
+
+- Studies Major in Software Engineering
+- at [IIT,University of Dhaka](http://www.iit.du.ac.bd/)
 
 
 <!--
