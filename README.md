@@ -25,7 +25,7 @@
 ## My Handles
  [<img src="https://img.shields.io/badge/Linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=D3D3D3">](https://www.linkedin.com/in/md-rakib-trofder-15222318b/)
  [<img src="https://img.shields.io/badge/twitter-151515?style=for-the-badge&logo=twitter&logoColor=00BFFF&labelColor=F0FAF0">](https://twitter.com/MdRakibTrofder) 
- [<img src="https://img.shields.io/badge/YouKn0wWho-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/YouKn0wWho) 
+ [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/LombuVai) 
  [<img src="https://img.shields.io/badge/sjshohag-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/sjshohag) 
 
 
