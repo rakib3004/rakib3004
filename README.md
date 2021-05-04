@@ -17,8 +17,8 @@
 <img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF"><br/>
 ![badge-c](https://img.shields.io/badge/c-151515?style=for-the-badge&logo=c&logoColor=ffffff&labelColor=00FA9A)
 ![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=1344a0e&labelColor=1344a0)
-![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515) <br/>
-![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)
+![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=008080) <br/>
+![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=008B8B)
 ![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e&labelColor=151515)
 <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">
 
