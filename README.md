@@ -3,12 +3,9 @@
 
 
 
-- Studies Major in Software Engineering
-- at [IIT,University of Dhaka](http://www.iit.du.ac.bd/)
+- Studies Major in Software Engineering at [IIT,University of Dhaka](http://www.iit.du.ac.bd/)
 
 
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rakib3004)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rakib3004&show_icons=true&theme=tokyonight)
 
 
