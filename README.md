@@ -27,8 +27,8 @@
  [<img src="https://img.shields.io/badge/twitter-151515?style=for-the-badge&logo=twitter&logoColor=00BFFF&labelColor=F0FAF0">](https://twitter.com/MdRakibTrofder) 
  [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/LombuVai) 
  
- ### My Websites
-  [<img src="https://img.shields.io/badge/rakib3004-151515?style=for-the-badge&logo=Github&logoColor=1344a0e&labelColor=1344a0">](https://rakib3004.github.io/) 
+ ### My Website
+  [<img src="https://img.shields.io/badge/rakib3004-2E8B57?style=for-the-badge&logo=Github&logoColor=000000&labelColor=E6E6FA">](https://rakib3004.github.io/) 
 
 ### View Stat
 ![Profile views](https://gpvc.arturio.dev/rakib3004)
