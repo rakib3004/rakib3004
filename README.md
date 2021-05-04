@@ -20,7 +20,7 @@
 ![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=008080) <br/>
 ![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=006BB6)
 ![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=FF4500&labelColor=FFE4B5)
-![badge-database](https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF)
+![badge-database](https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF&labelColor=2F4F4F)
 
 
 
