@@ -1,40 +1,45 @@
 ### Assalamu-Alaikum, I am [Md. Rakib Trofder](https://www.linkedin.com/in/md-rakib-trofder-15222318b/) ✨
 
+I am a software engineer who possesses a deep passion for problem-solving and programming. My educational background includes a bachelor's in Software Engineering from the University of Dhaka. During my university years, I actively participated in both problem-solving and software development. My enthusiasm for programming led me to take part in over 200 programming contests, where I solved over 1200 problems.
 
+My experience extends beyond contest participation and into academic and real-world projects, including web development and machin learning. My expertise in these areas is backed by a strong academic foundation, which I have complemented with a research background in the domain of Computer Vision and Pattern Recognition. As a result of my hard work and dedication, I have an accepted paper in ICDAR, the premier document analysis and recognition conference.
 
+In summary, my academic and practical experience has provided me with a comprehensive skillset to solve complex problems and develop software solutions.
 
-- Studies Major in Software Engineering at [IIT,University of Dhaka](http://www.iit.du.ac.bd/)
-
+- Worked as a Trainee Software Engineer at **Cefalo**
+- Skilled in **Javascript**, **Java** & **Python** programming language
+- Experienced in designing and implementing web application architectures using **Node**, **Express**, **React**, **Angular** etc
+- Strong communication and collaboration skills
+- Proficient in developing **RESTful APIs**, including designing and implementing API endpoints, and authentication mechanisms
+- Fundamental understanding of both **SQL** and **NoSQL** databases
+- Basic knowledge of agile development methodologies, including continuous integration and automated deployment
+- Competent in Git and collaborative coding projects
+- Excellent team player with good problem-solving skills and self-motivation.
 
 
 ![Rakib's github stats](https://github-readme-stats.vercel.app/api?username=rakib3004&show_icons=true&theme=tokyonight)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3004&layout=compact)](https://github.com/rakib3004/github-readme-stats)
 
+### Skills 
+
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![badge-java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![badge-javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![badge-python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![badge-node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![badge-express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![badge-react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+
+![Mysql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 
-
-
-### My Stacks
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 
 ### Social Media
  [<img src="https://img.shields.io/badge/Linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=D3D3D3">](https://www.linkedin.com/in/md-rakib-trofder-15222318b/)
  [<img src="https://img.shields.io/badge/twitter-151515?style=for-the-badge&logo=twitter&logoColor=00BFFF&labelColor=F0FAF0">](https://twitter.com/MdRakibTrofder) 
- [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/rakib3004) 
+
  
  ### My Website
   [<img src="https://img.shields.io/badge/rakib3004-2E8B57?style=for-the-badge&logo=Github&logoColor=000000&labelColor=E6E6FA">](https://rakib3004.github.io/) 
