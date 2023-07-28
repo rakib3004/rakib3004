@@ -32,8 +32,6 @@ In summary, my academic and practical experience has provided me with a comprehe
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 
-
-
 ### Social Media
  [<img src="https://img.shields.io/badge/Linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=D3D3D3">](https://www.linkedin.com/in/md-rakib-trofder-15222318b/)
  [<img src="https://img.shields.io/badge/twitter-151515?style=for-the-badge&logo=twitter&logoColor=00BFFF&labelColor=F0FAF0">](https://twitter.com/MdRakibTrofder) 
@@ -41,8 +39,3 @@ In summary, my academic and practical experience has provided me with a comprehe
  
  ### My Website
   [<img src="https://img.shields.io/badge/rakib3004-2E8B57?style=for-the-badge&logo=Github&logoColor=000000&labelColor=E6E6FA">](https://rakib3004.github.io/) 
-
-### View Stat
-![Profile views](https://gpvc.arturio.dev/rakib3004)
-
-
