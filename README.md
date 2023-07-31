@@ -1,6 +1,6 @@
 ### Assalamu-Alaikum, I am [Md. Rakib Trofder](https://www.linkedin.com/in/md-rakib-trofder-15222318b/) ✨
 
-I am a software engineer who possesses a deep passion for problem-solving and programming. My educational background includes a bachelor's in Software Engineering from the University of Dhaka. During my university years, I actively participated in both problem-solving and software development. I solved over 700+ problems, 30+ academic software projects, and 50+ online certifications in the computer science and software engineering field.
+I am a software engineer who possesses a deep passion for problem-solving and programming. My educational background includes a bachelor's in Software Engineering from the University of Dhaka. During my university years, I actively participated in both problem-solving and software development. I have completed 25+ academic software projects, solved 550+ competitive programming problems, and had 50+ online certifications in the computer science and software engineering field.
 
 In summary, my academic and practical experience has provided me with a comprehensive skillset to solve complex problems and develop software solutions.
 
