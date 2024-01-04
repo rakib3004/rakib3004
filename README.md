@@ -15,36 +15,6 @@ In summary, my academic and practical experience has provided me with a comprehe
 - Excellent team player with good problem-solving skills and self-motivation.
 
 
-![Rakib's github stats](https://github-readme-stats.vercel.app/api?username=rakib3004&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3004&layout=compact)](https://github.com/rakib3004/github-readme-stats)
-
-### Skills 
-
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![badge-java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![badge-javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![badge-python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![badge-node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![badge-express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![badge-react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-
-![Mysql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-
-### Social Media
- [<img src="https://img.shields.io/badge/Linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=D3D3D3">](https://www.linkedin.com/in/md-rakib-trofder-15222318b/)
- [<img src="https://img.shields.io/badge/twitter-151515?style=for-the-badge&logo=twitter&logoColor=00BFFF&labelColor=F0FAF0">](https://twitter.com/MdRakibTrofder) 
-
- 
- ### My Website
-  [<img src="https://img.shields.io/badge/rakib3004-2E8B57?style=for-the-badge&logo=Github&logoColor=000000&labelColor=E6E6FA">](https://rakib3004.github.io/) 
-
-
-
-  Hi 👋 My name is Md. Rakib Trofder
-==================================
-
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [rakib3004.github.io](http://rakib3004.github.io)
 * ✉️  You can contact me at [bsse1129@iit.du.ac.bd](mailto:bsse1129@iit.du.ac.bd)
@@ -52,9 +22,8 @@ In summary, my academic and practical experience has provided me with a comprehe
 * 🧠  I'm learning Next JS, Nest JS
 
 <a href="https://www.github.com/rakib3004" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rakib3004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/MdRakibTrofder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MdRakibTrofder?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/rakib3004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</br>
 
 ### Skills
 
@@ -70,16 +39,15 @@ src="https://img.shields.io/twitter/follow/MdRakibTrofder?logo=twitter&style=for
 
 ### Badges
 
-<b>My GitHub Stats</b>
+![Rakib's github stats](https://github-readme-stats.vercel.app/api?username=rakib3004&show_icons=true&theme=tokyonight)
 
-<a href="http://www.github.com/rakib3004"><img src="https://github-readme-stats.vercel.app/api?username=rakib3004&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rakib3004's GitHub stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3004&layout=compact)](https://github.com/rakib3004/github-readme-stats)
 
 <a href="http://www.github.com/rakib3004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib3004&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/rakib3004"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rakib3004&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/rakib3004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib3004&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
